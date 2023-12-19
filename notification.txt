@@ -1,0 +1,1 @@
+[{"lines":[{"diffs":[{"operation":" ","text":"WhatsApp"}]},{"diffs":[{"operation":" ","text":"End-to-end encrypted"}]}]}]
